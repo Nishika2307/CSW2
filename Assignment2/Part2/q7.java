@@ -1,3 +1,5 @@
+package Assignment2.Part2;
+
 package Assignment2;
 import java.util.*; //TreeMap
 public class q7 
