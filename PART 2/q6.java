@@ -21,3 +21,9 @@ public class q6
 }
 
 }
+/*OUTPUT
+/*[5, 7, 10, 20]
+Enter the number to be searched : 34
+false
+After Removal 7 [5, 10, 20]
+*/
