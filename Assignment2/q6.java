@@ -1,3 +1,4 @@
+package Assignment2;
 import java.util.*; //TreeSet
 public class q6 
 {
@@ -16,14 +17,14 @@ public class q6
 		n=sc.nextInt();
 		System.out.println(ts.contains(n));
 		ts.remove(7);
-		System.out.println("After Removal 7 "+ts);
+		System.out.println("After removing 7 : "+ts);
 		
 }
 
 }
-/*OUTPUT
-/*[5, 7, 10, 20]
+/*Output
+ [5, 7, 10, 20]
 Enter the number to be searched : 34
 false
-After Removal 7 [5, 10, 20]
-*/
+After removing 7 :[5, 10, 20]
+ */
